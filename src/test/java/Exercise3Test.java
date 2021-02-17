@@ -5,7 +5,7 @@ import co.edu.uniandes.infracom.taller4.exercise3.ExerciseThread;
 import org.junit.jupiter.api.*;
 import java.util.LinkedList;
 
-public class Exercise4Test {
+public class Exercise3Test {
     // Resultados
     private Exercise ex;
 
