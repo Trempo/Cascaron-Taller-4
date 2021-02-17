@@ -1,7 +1,7 @@
 import static org.junit.jupiter.api.Assertions.*;
-import co.edu.uniandes.infracom.taller4.exercise4.Exercise;
-import co.edu.uniandes.infracom.taller4.exercise4.ExerciseMethods;
-import co.edu.uniandes.infracom.taller4.exercise4.ExerciseThread;
+import co.edu.uniandes.infracom.taller4.exercise3.Exercise;
+import co.edu.uniandes.infracom.taller4.exercise3.ExerciseMethods;
+import co.edu.uniandes.infracom.taller4.exercise3.ExerciseThread;
 import org.junit.jupiter.api.*;
 import java.util.LinkedList;
 
