@@ -1,11 +1,11 @@
 import static org.junit.jupiter.api.Assertions.*;
-import co.edu.uniandes.infracom.taller4.exercise3.Exercise;
-import co.edu.uniandes.infracom.taller4.exercise3.ExerciseMethods;
-import co.edu.uniandes.infracom.taller4.exercise3.ExerciseThread;
+import co.edu.uniandes.infracom.taller4.exercise2.Exercise;
+import co.edu.uniandes.infracom.taller4.exercise2.ExerciseMethods;
+import co.edu.uniandes.infracom.taller4.exercise2.ExerciseThread;
 import org.junit.jupiter.api.*;
 import java.util.LinkedList;
 
-public class Exercise3Test {
+public class Exercise2Test {
     // Resultados
     private Exercise ex;
 

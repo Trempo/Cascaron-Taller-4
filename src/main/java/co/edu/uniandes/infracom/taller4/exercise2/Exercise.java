@@ -1,4 +1,4 @@
-package co.edu.uniandes.infracom.taller4.exercise3;
+package co.edu.uniandes.infracom.taller4.exercise2;
 import co.edu.uniandes.infracom.taller4.testhandler.Semaforo;
 import co.edu.uniandes.infracom.taller4.testhandler.TestHandler;
 
