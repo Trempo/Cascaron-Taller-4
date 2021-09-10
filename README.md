@@ -6,6 +6,10 @@ Clone este repositorio y abra este proyecto. En caso de que este trabajando con 
 
 Si trabaja con IntelliJ IDEA con solo abrir la carpeta del proyecto deberia ser suficiente para iniciar a trabajar.
 
+Con respecto a los métodos a completar, emplee el siguiente formato
+
+![imagen](https://user-images.githubusercontent.com/37672135/132862699-808e5661-5fb7-42d3-bbe5-ddabc4b6c450.png)
+
 Saludos
 
 Geovanny
