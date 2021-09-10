@@ -1,6 +1,5 @@
 package co.edu.uniandes.infracom.taller4.barrier;
 
-import co.edu.uniandes.infracom.taller4.rendezvous.Rendezvous;
 import co.edu.uniandes.infracom.taller4.testhandler.Semaforo;
 
 public class BarrierThread extends Thread {
