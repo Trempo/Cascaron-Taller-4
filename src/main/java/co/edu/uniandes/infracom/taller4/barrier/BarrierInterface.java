@@ -12,6 +12,9 @@ interface BarrierInterface<E extends Enum<E>>{
     // Metodo C
     void C(BarrierThread thread);
 
+    //Metodo D
+    void D(BarrierThread thread);
+
     // Obtener los semaforos
     Semaforo[] getSemaphoresRef();
 }

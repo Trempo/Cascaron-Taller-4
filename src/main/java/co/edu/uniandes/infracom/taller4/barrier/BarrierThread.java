@@ -3,7 +3,6 @@ package co.edu.uniandes.infracom.taller4.barrier;
 import co.edu.uniandes.infracom.taller4.testhandler.Semaforo;
 
 public class BarrierThread extends Thread {
-    // TODO Implementar la clase BarrierThread
     private String id;
     private Barrier ref;
     private Semaforo[] sems;
@@ -22,7 +21,15 @@ public class BarrierThread extends Thread {
 
     @Override
     public void run() {
-        //TODO Implementar el proceso del thread
-        super.run();
+        switch (id){
+            case "A":
+                ref.A(this);
+            case "B":
+                ref.B(this);
+            case "C":
+                ref.C(this);
+            case"D":
+                ref.D(this);
+        }
     }
 }

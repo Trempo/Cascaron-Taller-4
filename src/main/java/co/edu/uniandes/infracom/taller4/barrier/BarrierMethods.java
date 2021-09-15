@@ -10,4 +10,7 @@ public enum BarrierMethods {
 
     // Metodo C
     C,
+
+    // Metodo D
+    D,
 }
